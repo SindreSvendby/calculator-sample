@@ -7,7 +7,7 @@ module.exports = () => {
       'test/helper/template.js'
     ],
     tests: [
-      'test/*Spec.js'
+      'test/*.test.js'
     ],
     debug: true
   };
